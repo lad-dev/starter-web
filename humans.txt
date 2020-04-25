@@ -1,6 +1,5 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-something else goes here
 # TEAM
 
     <name> -- <role> -- <twitter>
@@ -12,5 +11,3 @@ something else goes here
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3,Something,somethingelse,simplechange
-    jQuery, Modernizr,
-    somethine else
